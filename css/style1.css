@@ -22,6 +22,21 @@
   }
 }
 
+/* .intro-social li {
+	margin: auto 20px;
+	display: inline;
+	font-optical-sizing: auto;	
+}
+
+.intro-social li a {
+	color: whitesmoke;
+	vertical-align: bottom;
+}
+
+.intro-social li .im {
+	font-size: 3rem;
+} */
+
 .animated {
   visibility: visible;
   -webkit-animation-duration: 1.5s;
@@ -476,6 +491,9 @@ footer.main-footer p.social a {
 
 footer.main-footer p.social a.facebook {
   background-color: #4460ae;
+}
+footer.main-footer p.social a.git {
+  background-color: black;
 }
 
 footer.main-footer p.social a.gplus {
